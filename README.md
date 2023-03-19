@@ -1,3 +1,5 @@
+![General - SwiftNews - Google Chrome 3_19_2023 11_36_30 PM](https://user-images.githubusercontent.com/73494241/226197901-c18d732f-cfa2-4ae5-868d-ae12889f2931.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
